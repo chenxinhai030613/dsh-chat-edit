@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Chat Edit & Delete",
+    "description": "Adds Edit and Delete next to each user prompt's copy button. Edit opens an inline editor and sends the edited prompt as the next turn of the same conversation, creating no branch and no archive. Delete replaces the conversation without that turn and archives the original."
+  }
+}

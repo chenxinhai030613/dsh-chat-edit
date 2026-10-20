@@ -1,0 +1,5 @@
+# dsh-chat-edit bundle patch: mounts the Host row. The browser half is
+# discovered from package.json `dsh.client` and served by the Web client.
+- insert:
+    - id: chat-edit
+      name: 'dsh-chat-edit'
